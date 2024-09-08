@@ -1,0 +1,8 @@
+/Users/kouskefil_/Projets/perso/microservice-new/order-service/src/main/java/com/kouskefil/order_service/Controllers/OrderController.java
+/Users/kouskefil_/Projets/perso/microservice-new/order-service/src/main/java/com/kouskefil/order_service/Dto/OrderLineItemsDto.java
+/Users/kouskefil_/Projets/perso/microservice-new/order-service/src/main/java/com/kouskefil/order_service/Dto/OrderRequest.java
+/Users/kouskefil_/Projets/perso/microservice-new/order-service/src/main/java/com/kouskefil/order_service/Models/Order.java
+/Users/kouskefil_/Projets/perso/microservice-new/order-service/src/main/java/com/kouskefil/order_service/Models/OrderLineItems.java
+/Users/kouskefil_/Projets/perso/microservice-new/order-service/src/main/java/com/kouskefil/order_service/OrderServiceApplication.java
+/Users/kouskefil_/Projets/perso/microservice-new/order-service/src/main/java/com/kouskefil/order_service/Repositories/OrderRepository.java
+/Users/kouskefil_/Projets/perso/microservice-new/order-service/src/main/java/com/kouskefil/order_service/Services/OderService.java
